@@ -25,7 +25,7 @@ def get_file_list(folder):
 def move_files(files, folder):  
     for file in files:
         extension = file.split('.')[-1].lower()
-        if extension in ['jpg', 'png', 'gif']:
+        if extension in ['jpg', 'tiff']:
             exif_dict = piexif.load(file)
             for ifd in ("0th", "Exif"):
                 for tag in exif_dict[ifd]:
