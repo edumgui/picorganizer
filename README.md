@@ -14,5 +14,5 @@ $ pip install -r requirements.txt
 ### How to use it
 
 ```sh
-$ python picorganizer/app.py 'C:\Path\To\Images\' 'C:\Destination\Path\'
+$ python picorganizer/app.py 'C:\Path\To\Images' 'C:\Destination\New Location'
 ```
