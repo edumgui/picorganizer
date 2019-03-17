@@ -4,7 +4,7 @@ Picorganizer move your images under a year/month folder structure based on exif 
 
 ### Installation
 
-Picorganizer requires [Python 3](https://www.python.org/) v3+ to run.
+Picorganizer requires [Python 3](https://www.python.org/) to run.
 Install the dependencies.
 
 ```sh
