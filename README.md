@@ -1,6 +1,6 @@
 # Picorganizer
 
-Picorganizer move your images under a year/month folder structure based on exif metadata
+Picorganizer moves your images under a year/month folder structure based on exif metadata
 
 ### Installation
 
